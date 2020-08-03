@@ -1,0 +1,16 @@
+## Interface: 40000
+## Title: Drunkard Suicide Kings
+## Notes: Suicide Kings for the guild Drunkard of Bloodscalp.
+## Author: Aaron Castor
+## Version: 1.2.3
+## SavedVariables: DrunkardSKDB
+## OptionalDeps: Ace3
+## X-Curse-Packaged-Version: v1.2.3
+## X-Curse-Project-Name: Drunkard Suicide Kings
+## X-Curse-Project-ID: drunkardsk
+## X-Curse-Repository-ID: wow/drunkardsk/mainline
+
+
+embeds.xml
+
+DrunkardSK.lua
