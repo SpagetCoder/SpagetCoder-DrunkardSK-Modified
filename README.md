@@ -1,6 +1,6 @@
 # SpagetCoder-DrunkardSK-Modified
 
-DrunkardSK addon for loot system modified by Xarra. DrunkardSK is an addon for World of Warcraft, it is used to distribute the loot.
+DrunkardSK addon for loot system modified by me. DrunkardSK is an addon for World of Warcraft, it is used to distribute the loot.
 
 Changes
 
